@@ -23,3 +23,4 @@ var soUSD = 2;
 var tienVND = 0;
 tienVND = ( giaUSD * soUSD);
 console.log("số tiền VND nhận được :", tienVND + "VND");
+
